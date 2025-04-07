@@ -34,7 +34,7 @@ const Footer = () => {
                  </li>
                 <li className='pb-2'><a href="#"  className='text-gray-500'>Contact us</a>
                 </li>
-                </ul>
+           </ul>
             </div>
             <div className="about pl-30">
                 <h1 className='text-2xl pb-5 text-white'>Services</h1>
@@ -51,8 +51,7 @@ const Footer = () => {
                 </li>
                 <li className='pb-2'><a href="#"  className='text-gray-500'>Lightning Migration</a>
                 </li>
-
-                </ul>
+            </ul>
             </div> <div className="about pl-30">
                 <h1 className='text-2xl pb-5 text-white'>Platform</h1>
             <ul class="list-unstyled">
@@ -90,12 +89,8 @@ const Footer = () => {
                 </li>
                 </ul>
             </div>
-
-            </div>
-
-            
-
         </div>
+  </div>
     </div>
   )
 }
