@@ -1,0 +1,17 @@
+
+body{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  }
+
+.nav-container{
+  padding-top:3rem;
+}
+
+.hero-container{
+  padding-bottom:4rem;
+}  
+.container{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
