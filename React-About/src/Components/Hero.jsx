@@ -25,6 +25,7 @@ const Hero = () => {
         <p className='text-2xl pt-1'>lorem ipsum</p>
         <p className='text-2xl text-gray-500 pt-1'>5 mins</p>
 </div>
+<h1>bhghdbfhdfbhjdfbhdfhdbf</h1>
     </div>
 </div>
 </div>
